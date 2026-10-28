@@ -4,6 +4,6 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-drakkan/sftpgo:v2.7.6-alpine
-drakkan/sftpgo:v2.7.6
-drakkan/sftpgo:v2.7.6-slim
+redis:8.2.11
+redis:6.2.24
+redis:5.0.14
